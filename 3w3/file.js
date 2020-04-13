@@ -22,7 +22,7 @@ window.addEventListener('load', function () {
     p.innerText = "Жодної!";
     p.style.width = "100%";
     p.style.height = "5vh";
-    p.style.margin = "100";
+    p.style.margin = "10";
     p.style.fontSize = "30px";
     p.style.background = "#FFB6C1";
 })
