@@ -12,7 +12,7 @@ window.addEventListener('load', function () {
             p.style.width = "100%";
             p.style.height = "5vh";
             p.style.margin = "10";
-            p.style.fontSize = "300px";
+            p.style.fontSize = "30px";
            
         } 
         bottle++;
