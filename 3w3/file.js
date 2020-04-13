@@ -11,9 +11,9 @@ window.addEventListener('load', function () {
             p.innerText = i + " пляшок стоїть на стіні, одна упала і залишилось " + (n - bottle);
             p.style.width = "100%";
             p.style.height = "5vh";
-            p.style.margin = "0";
-            p.style.fontSize = "20px";
-            p.style.background = "#FFB6C1";
+            p.style.margin = "10";
+            p.style.fontSize = "300px";
+           
         } 
         bottle++;
     }
@@ -22,7 +22,7 @@ window.addEventListener('load', function () {
     p.innerText = "Жодної!";
     p.style.width = "100%";
     p.style.height = "5vh";
-    p.style.margin = "0";
-    p.style.fontSize = "20px";
+    p.style.margin = "100";
+    p.style.fontSize = "30px";
     p.style.background = "#FFB6C1";
 })
